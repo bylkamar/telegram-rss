@@ -1,0 +1,12 @@
+{
+    "adminId": 0,
+    "token": "",
+    "timeLoop": 5,
+    "database": {
+        "host": "localhost",
+        "user": "root",
+        "password": "",
+        "database": "rss",
+        "port": "3306"
+    }
+}
